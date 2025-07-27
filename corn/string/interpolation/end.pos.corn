@@ -1,0 +1,3 @@
+let { value = "world" } in {
+    value = "hello, ${value}"
+}

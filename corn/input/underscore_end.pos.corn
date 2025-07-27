@@ -1,0 +1,3 @@
+let { $value_ = 42 } in {
+    value = $value_
+}

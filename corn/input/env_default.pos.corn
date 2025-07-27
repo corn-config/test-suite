@@ -1,0 +1,3 @@
+let { $env_CORN_UNDEFINED = "hello" } in {
+    value = $env_CORN_UNDEFINED
+}

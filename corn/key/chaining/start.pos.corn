@@ -1,0 +1,4 @@
+{
+    value.foo = 42
+    value = { bar = 3.14 }
+}

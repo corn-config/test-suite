@@ -1,0 +1,6 @@
+let { $value = { foo = 42 } } in {
+    value = { 
+         foo = 3.14
+        ..$value
+    }
+}

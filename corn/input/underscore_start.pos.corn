@@ -1,0 +1,3 @@
+let { $_value = 42 } in {
+    value = $_value
+}
