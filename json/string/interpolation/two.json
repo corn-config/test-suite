@@ -1,1 +1,1 @@
-{ "value": "${greeting}, ${subject}!" }
+{ "value": "hello, world!" }
